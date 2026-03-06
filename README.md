@@ -783,17 +783,17 @@ This shows how the agents interact internally.
 # 3️⃣ Tool Usage Flow
 
 This shows how the agent decides to use tools.
-![](images/mermaid-diagram(1).png)
+![](images/mermaid-diagram (1).png)
 
 # 4️⃣ Cloud Deployment Pipeline
 
 This shows what happens when running the deploy command.
-![](images/mermaid-diagram(2).png)
+![](images/mermaid-diagram (2).png)
 
 # 5️⃣ Runtime Request Flow
 
 This shows what happens when a user asks a question.
-![](images/mermaid-diagram(3).png)
+![](images/mermaid-diagram (3).png)
 
 -----------------------------------------
 
